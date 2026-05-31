@@ -523,11 +523,11 @@ Score
 B.E. AI & Data Science
 Sambhram Institute of Technology (VTU)
 2022-2026
-8.43/10.0
+8.43/10.0 | 
 Class XII
 Vidya Jyothi PU College, Kolar
 2022
-83%
+83% | 
 Class X
 SFS School, Srinivaspura
 2020
@@ -550,16 +550,16 @@ Issuer
 Date
 Microsoft Certified: Azure Data Fundamentals
 Microsoft
-2024
+2024 | 
 Data Analytics with Power BI
 Vtricks Technologies
-Nov 2023
+Nov 2023 | 
 Python for Data Science
 IBM Cognitive Class
-2024
+2024 |
 EarlyDiabNet Publication
 IJIRT Journal
-Dec 2025
+Dec 2025 |
 5+ Hackathon Participant
 Various
 2024-2025
