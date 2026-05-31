@@ -26,17 +26,16 @@
 <div align="center">
 
 📊 Metric
-📈 Value
 CGPA
-8.43/10.0
-Projects
+8.43/10.0 |
+Projects 
 6+
 Internships
 2
 Hackathons
 5+
 Certifications
-5+
+5+ | 
 Status
 🟢 Open to Opportunities
 
