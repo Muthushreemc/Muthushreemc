@@ -695,3 +695,12 @@ Last Updated: May 2026 | ⭐ If you found this useful, consider starring my repo
 
 </div>
 
+---
+
+<div align="center">
+  
+  ![Snake animation](https://github.com/Muthushreemc/Muthushreemc/raw/output/github-contribution-grid-snake.svg )
+  
+</div>
+
+
