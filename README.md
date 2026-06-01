@@ -14,7 +14,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=muthushreemc&style=flat-square&color=blue" alt="Profile Views" />
 
-📍 Bengaluru, India | 🎓 Graduating June 2026 | 📧 muthushreemc@gmail.com
+📍 Bengaluru, India | 🎓 Graduated in June 2026 | 📧 muthushreemc@gmail.com
 
 </div>
 
